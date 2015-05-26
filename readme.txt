@@ -78,6 +78,9 @@ You can chech your analytics, check your code into the <head> or search for the 
 * dc. almost done
 * minnor bugs fixed
 
+= 1.1.1 =
+* minnor bug fixed in analytics code
+
 == Upgrade Notice ==
 
 = 1.0 =
