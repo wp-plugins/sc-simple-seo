@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== SC Simple SEO ===
 Contributors: sergiuscosta
 Donate link: http://www.sergiocosta.net.br/
 Tags: seo, search engine optimization, google, search, analytics, opengraph, open graph, robots, meta tags
@@ -12,29 +12,50 @@ A very simple SEO plugin
 
 == Description ==
 
-# A very simple but very effective SEO plugin
-### No programming skills needed!
+= A very simple but very effective SEO plugin =
+= No programming skills needed! =
 
 The plugin injects:
+
+
 *	Variables
+
 	- 	Title
+
 	- 	Description
+
 	- 	URL
+
 	- 	Tags
+
 *	Meta tags
+
 	-	Author
+
 	-	Keywords
+
 	-	Description
+
 	-	Copyright
+
 	-	Robots (for any hierarchical file)
+
 *	og: tags
+
 	-	Title
+
 	-	Type
+
 	-	URL
+
 	-	Image
+
 	-	Site Name
+
 	-	Description
+
 *	Google Analytics code
+
 
 New features are coming soon!!!
 
@@ -59,6 +80,11 @@ You can chech your analytics, check your code into the <head> or search for the 
 
 = 1.0 =
 * Plugin created
+
+= 1.1 =
+* Geo Location almost done
+* dc. almost done
+* minnor bugs fixed
 
 == Upgrade Notice ==
 
